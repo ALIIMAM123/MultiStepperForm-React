@@ -1,0 +1,23 @@
+.multistep-wrapper {
+  background-color: rgb(214, 214, 238);
+  min-height: 90vh;
+  padding: 2rem;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-top: 1rem;
+  gap: 1rem;
+}
+.stepOne-container {
+  padding: 1rem;
+  /* background-color: red; */
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+}
+.error-class {
+  color: red;
+}
